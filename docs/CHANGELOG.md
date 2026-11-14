@@ -4,6 +4,12 @@ The app was "PC Control Deck" until 0.10 and "Control Deck" until 1.0. Until 0.7
 `agent/` folder of the JC3248W535 deck repository; this repository keeps that history. Deck firmware
 changes are listed in [DECKY-Firmware](https://github.com/crazyramirez/DECKY-Firmware/blob/main/docs/CHANGELOG.md).
 
+## 1.1.5 — Latest deck firmware: hold the screensaver to sleep
+
+- **Bundled deck firmware: 1.5.0** for every deck. Holding a finger on the screensaver for 2 s puts
+  the deck to sleep (a ring fills while you hold; lift to cancel). The JC3248W535 no longer takes a
+  full battery for USB once unplugged.
+
 ## 1.1.4 — Latest deck firmware: battery level on the screensaver
 
 - **Bundled deck firmware: 1.4.0** for every deck. A deck running on its battery (JC3248W535) shows
