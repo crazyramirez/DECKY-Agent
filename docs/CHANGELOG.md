@@ -4,6 +4,12 @@ The app was "PC Control Deck" until 0.10 and "Control Deck" until 1.0. Until 0.7
 `agent/` folder of the JC3248W535 deck repository; this repository keeps that history. Deck firmware
 changes are listed in [DECKY-Firmware](https://github.com/crazyramirez/DECKY-Firmware/blob/main/docs/CHANGELOG.md).
 
+## 1.1.4 — Latest deck firmware: battery level on the screensaver
+
+- **Bundled deck firmware: 1.4.0** for every deck. A deck running on its battery (JC3248W535) shows
+  it discreetly in the screensaver's top right corner: a small battery filled to the charge, with
+  or without the percentage (*Settings › Screensaver › Battery*); never on USB.
+
 ## 1.1.3 — Latest deck firmware: more cities on Today
 
 - **Bundled deck firmware: 1.3.0** for every deck. Today holds up to 6 cities: swipe sideways for
