@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/header.webp" width="100%" alt="DECKY Agent: the desktop app behind your deck — sensors, media, weather and crypto over your LAN. Windows · Linux · macOS. No cloud."></p>
+<p align="center"><img src="docs/og-image.jpg" width="100%" alt="DECKY Agent: the desktop app behind your deck — sensors, media, weather and crypto over your LAN. Windows · Linux · macOS. No cloud."></p>
 
 # DECKY Agent — the desktop app of DECKY
 
