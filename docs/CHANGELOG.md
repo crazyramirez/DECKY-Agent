@@ -4,6 +4,14 @@ The app was "PC Control Deck" until 0.10 and "Control Deck" until 1.0. Until 0.7
 `agent/` folder of the JC3248W535 deck repository; this repository keeps that history. Deck firmware
 changes are listed in [DECKY-Firmware](https://github.com/crazyramirez/DECKY-Firmware/blob/main/docs/CHANGELOG.md).
 
+## 1.1.6 — Latest deck firmware: no more waking on a false touch
+
+- **Bundled deck firmware: 1.6.0** for every deck. Only a real finger turns a dark screen back on
+  (a stray report of the touch controller no longer does), and on the JC3248W535 and JC4827W543 a
+  glitch on the touch line no longer wakes the deck from deep sleep: it checks for the finger and
+  goes straight back to sleep without lighting the screen. A tap too quick to be seen: tap again
+  within 4 s.
+
 ## 1.1.5 — Latest deck firmware: hold the screensaver to sleep
 
 - **Bundled deck firmware: 1.5.0** for every deck. Holding a finger on the screensaver for 2 s puts
